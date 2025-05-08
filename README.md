@@ -1,80 +1,56 @@
 # freeCodeCamp JavaScript Algorithms Certification Projects
 
- 
+ [![freeCodeCamp Certificate](https://www.freecodecamp.org/certification/IsmailSadykov/javascript-algorithms-and-data-structures-v8/badge.svg)](https://www.freecodecamp.org/certification/IsmailSadykov/javascript-algorithms-and-data-structures-v8)
 
 A showcase of my five build-from-scratch certification projects from the freeCodeCamp JavaScript Algorithms and Data Structures curriculum. Each project demonstrates core JavaScript skills, problem-solving ability, and hands-on implementation of algorithms and data structures.
 
-📂 Projects
+# 📂 Projects
+
+### [Project 01 - Palindrome Checker](https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/01-palindrome-checker)
 
 
-
-
-
-Description
-
-Link
-
-# Project 01
-Palindrome Checker
-
-Description
 Verify if a string reads the same forwards and backwards.
 
-Demo
-[Live Demo](https://sadykovismail.github.io/fcc-javascript-algorithms/01-palindrome-checker/)
 
-Code
-[Source](https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/01-palindrome-checker)
+> ▶️ **Visit Live Demo:**
+> https://sadykovismail.github.io/Java-script/roman-numeral-converter/
 
-# Project 02
-Roman Numeral Converter
 
-Description
+### [Project 02 - Roman Numeral Converter](https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/02-roman-numeral-converter/)
+
 Convert integers (1–3999) to Roman numeral format.
 
-Demo
-[Live Demo](https://sadykovismail.github.io/fcc-javascript-algorithms/02-roman-numeral-converter/)
 
-Code
-[Source](https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/02-roman-numeral-converter/)
+> ▶️ **Visit Live Demo:**  
+> https://sadykovismail.github.io/fcc-javascript-algorithms/02-roman-numeral-converter/
 
 
 
-# Project 03
-Telephone Validator
+### [Project 03 - Telephone Validator](https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/03-telephone-validator/)
 
-Description
 Validate phone numbers against common formatting rules.
 
-Demo
-[Live Demo](https://sadykovismail.github.io/fcc-javascript-algorithms/03-telephone-validator/)
 
-Code
-[Source](https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/03-telephone-validator/)
+> ▶️ **Visit Live Demo:**  
+> https://sadykovismail.github.io/fcc-javascript-algorithms/03-telephone-validator/
 
-# Project 04
-Cash Register
+### [Project 04 - Cash Register](https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/04-cash-register/)
 
-Description
 Simulate a cash register’s change-making functionality.
 
-Demo
-[Live Demo](https://sadykovismail.github.io/fcc-javascript-algorithms/04-cash-register/)
 
-Code
-[Source](https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/04-cash-register/)
+> ▶️ **Visit Live Demo:**  
+> https://sadykovismail.github.io/fcc-javascript-algorithms/04-cash-register/
 
-# Project 05
-RPG Creature Searcher
 
-Description
+### [Project 05 - RPG Creature Searcher](https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/05-rpg-creature-search-app)
+
 Implement a search/filter feature for game creatures.
 
-Demo
-[Live Demo](https://sadykovismail.github.io/fcc-javascript-algorithms/05-rpg-creature-search-app/)
 
-Code
-[Source](https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/05-rpg-creature-search-app)
+> ▶️ **Visit Live Demo:**  
+> https://sadykovismail.github.io/fcc-javascript-algorithms/05-rpg-creature-search-app/
+
 
 Each folder contains its own README.md with running instructions, code examples, screenshots, and (if available) live demo links.
 
@@ -100,11 +76,11 @@ Node.js (for local testing)
 
 Git & GitHub
 
-🔗 Additional Practice Projects
+# 🔗 Additional Practice Projects
 
 Explore all my JavaScript practice repositories and coding challenges [here](https://github.com/sadykovIsmail/Java-script).
 
-🏷 License
+# 🏷 License
 
 This work is licensed under the [MIT License](LICENSE). See LICENSE for details.
 
