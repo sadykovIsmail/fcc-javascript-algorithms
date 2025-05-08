@@ -1,6 +1,6 @@
 # freeCodeCamp JavaScript Algorithms Certification Projects
 
- [![freeCodeCamp Certificate](https://www.freecodecamp.org/certification/IsmailSadykov/javascript-algorithms-and-data-structures-v8/badge.svg)](https://www.freecodecamp.org/certification/IsmailSadykov/javascript-algorithms-and-data-structures-v8)
+ [!freeCodeCamp Certificate](https://www.freecodecamp.org/certification/IsmailSadykov/javascript-algorithms-and-data-structures-v8)
 
 A showcase of my five build-from-scratch certification projects from the freeCodeCamp JavaScript Algorithms and Data Structures curriculum. Each project demonstrates core JavaScript skills, problem-solving ability, and hands-on implementation of algorithms and data structures.
 
