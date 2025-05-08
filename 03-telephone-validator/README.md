@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/03-telephone-validator/
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 In the Phone Number field, enter the number you want to validate.
 
 Click the Validate button (or press Enter).
@@ -36,14 +36,14 @@ See the validation result (“✅ Valid” or “❌ Invalid”) and any error d
 
 Click Clear to reset the input and result.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive design
 
 Vanilla JavaScript (ES6+) for validation logic and DOM updates
 
-File Structure
+## File Structure
 
 telephone-validator/
 ├── index.html           # Main HTML page
@@ -53,7 +53,7 @@ telephone-validator/
 │   └── script.js           # Validation logic and UI handlers
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

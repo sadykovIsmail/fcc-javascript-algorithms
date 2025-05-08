@@ -27,7 +27,7 @@ _No build tools or external dependencies required!_
    git clone https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/05-rpg-creature-search-app
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 Browse the Creature Cards grid on load.
 
 Use the Search input to filter creatures by name.
@@ -42,14 +42,14 @@ To remove a creature, click the 🗑️ icon on its card.
 
 Your additions and edits are auto-saved; refresh to continue where you left off.
 
-Tech Stack
+## Tech Stack
 HTML5 for semantic markup
 
 CSS3 (Flexbox & Grid) for styling and responsive design
 
 Vanilla JavaScript (ES6+) for data handling, filtering, random generation, and localStorage integration
 
-File Structure
+## File Structure
 
 rpg-creature-app/
 ├── index.html              # Main HTML page with creature grid
@@ -60,7 +60,7 @@ rpg-creature-app/
 |
 └── README.md               # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

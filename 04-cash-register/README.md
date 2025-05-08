@@ -29,7 +29,7 @@ _No dependencies or build tools required!_
    git clone https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/04-cash-register/
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 In the Add Item form, enter:
 
 Name of the product
@@ -52,14 +52,14 @@ See the Change Due displayed immediately.
 
 Click Clear Register to reset everything for the next customer.
 
-Tech Stack
+## Tech Stack
 HTML5 for structure
 
 CSS3 for styling and responsive layout
 
 Vanilla JavaScript (ES6+) for register logic, tax calculations, and DOM manipulation
 
-File Structure
+## File Structure
 bash
 Копировать код
 cash-register-app/
@@ -70,7 +70,7 @@ cash-register-app/
 │   └── script.js        # Register logic & event handlers
 └── README.md            # Project documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

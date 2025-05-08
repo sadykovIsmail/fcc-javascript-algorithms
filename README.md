@@ -72,7 +72,7 @@ Implement a search/filter feature for game creatures.
 
 Each folder contains its own README.md with running instructions, code examples, screenshots, and (if available) live demo links.
 
-# Getting Started
+## Getting Started
 
 Clone the repository
 
@@ -84,7 +84,7 @@ cd FCC-JS-Algorithms/02-roman-numeral-converter
 
 Open index.html in your browser (or follow the folder README for CLI-based usage).
 
-# Tech Stack
+## Tech Stack
 
 JavaScript (ES6+)
 

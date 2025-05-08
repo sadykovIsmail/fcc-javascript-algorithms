@@ -1,8 +1,8 @@
-Roman Numeral Converter
+# Roman Numeral Converter
 
 A simple web application that converts integer numbers into Roman numerals. Enter any positive integer to instantly see its equivalent in Roman numerals.
 
-Features
+## Features
 
 Number Input: Enter an integer number to convert (e.g., 4, 2024, 3999).
 
@@ -14,13 +14,13 @@ Clear & Reset: Quickly reset the input and result with one click.
 
 Responsive Design: Fully functional on desktop and mobile browsers.
 
-Demo
+## Demo
 
 Open index.html in your browser or view the live demo:https://sadykovismail.github.io/fcc-javascript-algorithms/02-roman-numeral-converter/
 
 ![Screenshot of the Palindrome Checker](./screenshot.png)
 
-Installation
+## Installation
 
 No build tools or external dependencies required!
 
@@ -30,7 +30,7 @@ git clone https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/0
 
 Open index.html in any modern web browser.
 
-Usage
+## Usage
 
 Type an integer number into the provided input field.
 
@@ -40,7 +40,7 @@ See the result displayed instantly as a Roman numeral.
 
 Click Clear to reset your input and the result.
 
-Tech Stack
+## Tech Stack
 
 HTML5* for structure*
 
@@ -48,7 +48,7 @@ CSS3* for styling and responsive design*
 
 Vanilla JavaScript (ES6+)* for conversion logic and DOM updates*
 
-File Structure
+## File Structure
 roman-numeral-converter/
 ├── index.html            # Main HTML file
 ├── css/
@@ -57,7 +57,7 @@ roman-numeral-converter/
 │   └── script.js         # Conversion logic and UI interactions
 └── README.md             # Documentation
 
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:

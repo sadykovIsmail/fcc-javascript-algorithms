@@ -25,7 +25,7 @@ _No build or external dependencies required!_
    git clone https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/01-palindrome-checker
 Open index.html in any modern browser.
 
-Usage
+## Usage
 Type or paste your text into the input field.
 
 Click the Check button.
@@ -34,7 +34,7 @@ View the result message (“✅ It’s a palindrome!” or “❌ Not a palindro
 
 To try another text, simply edit the input and click Check again.
 
-Tech Stack
+## Tech Stack
 HTML5 with inline CSS for styling
 
 Vanilla JavaScript embedded in index.html for palindrome logic
@@ -42,7 +42,7 @@ Vanilla JavaScript embedded in index.html for palindrome logic
 File Structure
 palindrome-checker/
 └── index.html    # All markup, styling, and script in one file
-Contributing
+## Contributing
 1) Fork the repo
 
 2) Create a new branch:
