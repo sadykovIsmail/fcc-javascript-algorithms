@@ -16,7 +16,7 @@ A web-based cash register simulator for small shops or point-of-sale demos. Ring
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<https://sadykovismail.github.io/Java-script/39-cash-register/>
+<https://sadykovismail.github.io/fcc-javascript-algorithms/04-cash-register/>
 
 ![Screenshot of the Cash Register App](./screenshot.png)
 
@@ -26,7 +26,7 @@ _No dependencies or build tools required!_
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/sadykovIsmail/Java-script/tree/main/39-cash-register
+   git clone https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/04-cash-register/
 Open index.html in any modern web browser.
 
 Usage

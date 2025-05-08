@@ -14,7 +14,7 @@ A simple web app to validate telephone numbers against common formatting rules. 
 ## Demo
 
 Open `index.html` in your browser or view the live demo:  
-<https://sadykovismail.github.io/Java-script/17-telephone-validator/>
+<https://sadykovismail.github.io/fcc-javascript-algorithms/03-telephone-validator/>
 
 ![Screenshot of the Telephone Validator app](./screenshot.png)
 
@@ -24,7 +24,7 @@ _No build tools or external dependencies required!_
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/sadykovIsmail/Java-script/tree/main/17-telephone-validator
+   git clone https://github.com/sadykovIsmail/fcc-javascript-algorithms/tree/main/03-telephone-validator/
 Open index.html in any modern web browser.
 
 Usage
