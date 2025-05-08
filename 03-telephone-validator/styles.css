@@ -1,0 +1,99 @@
+/* styles.css */
+
+/* Reset & Base */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f0f2f5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+/* Container */
+.container {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+  width: 100%;
+  max-width: 360px;
+  text-align: center;
+}
+
+/* Input */
+#user-input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+#user-input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0,123,255,0.2);
+}
+
+/* Buttons */
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 0.95rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin: 0.25rem;
+  transition: background-color 0.2s, transform 0.1s;
+}
+#check-btn {
+  background-color: #28a745;
+  color: white;
+}
+#check-btn:hover {
+  background-color: #218838;
+}
+#clear-btn {
+  background-color: #dc3545;
+  color: white;
+}
+#clear-btn:hover {
+  background-color: #c82333;
+}
+button:active {
+  transform: scale(0.98);
+}
+
+/* Result Text */
+#results-div {
+  margin-top: 1rem;
+  font-size: 1rem;
+  min-height: 1.5em;
+  color: #333;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+.valid {
+  background: #d4edda;
+  border: 1px solid #c3e6cb;
+  color: #155724;
+}
+.invalid {
+  background: #f8d7da;
+  border: 1px solid #f5c6cb;
+  color: #721c24;
+}
+
+/* Responsive */
+@media (max-width: 400px) {
+  .container {
+    margin: 1rem;
+    padding: 1.5rem;
+  }
+}

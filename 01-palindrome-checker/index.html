@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Palindrome Checker by Ismail Sadykov</title>
+<style>
+body {
+font-family: "Segoe UI", sans-serif;
+background-color: #121212;
+color: #fff;
+text-align: center;
+padding: 40px 20px;
+}
+
+h1 {
+font-size: 2.5rem;
+margin-bottom: 10px;
+color: #00ffd5;
+}
+
+.container {
+background: #1e1e2f;
+border-radius: 20px;
+padding: 30px;
+box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+max-width: 500px;
+margin: auto;
+}
+
+input[type="text"] {
+padding: 12px;
+border: none;
+border-bottom: 2px solid #00ffd5;
+width: 80%;
+background: transparent;
+color: #fff;
+font-size: 1rem;
+outline: none;
+margin-bottom: 20px;
+}
+
+button {
+background-color: #8a2be2;
+border: none;
+color: white;
+padding: 10px 24px;
+font-size: 1rem;
+border-radius: 10px;
+cursor: pointer;
+margin-top: 10px;
+transition: 0.3s ease;
+}
+
+button:hover {
+background-color: #a96dff;
+}
+
+#result {
+margin-top: 20px;
+font-size: 1.3rem;
+color: #00ff88;
+}
+
+.footer {
+margin-top: 40px;
+font-size: 0.9rem;
+color: #aaa;
+}
+</style>
+</head>
+<body>
+
+<h1>Palindrome Checker</h1>
+<div class="container">
+<input type="text" id="text-input" placeholder="Enter text here" />
+<br />
+<button id="check-btn">Check</button>
+<div id="result"></div>
+</div>
+
+<div class="footer">Designed by Ismail Sadykov</div>
+
+<script>
+const input = document.getElementById("text-input");
+const button = document.getElementById("check-btn");
+const result = document.getElementById("result");
+
+button.onclick = () => {
+const value = input.value;
+if (value === "") {
+        alert("Please input a value");
+        return;
+}
+
+const cleaned = value.toLowerCase().replace(/[^a-z0-9]/g, "");
+const reversed = cleaned.split("").reverse().join("");
+
+if (cleaned === "") {
+    result.innerText = `"${value}" is not a valid palindrome.`;
+} else if (cleaned === reversed) {
+    result.innerText = `"${value}" is a palindrome.`;
+} else {
+    result.innerText = `"${value}" is not a palindrome.`;
+    }
+    };
+</script>
+
+</body>
+</html>
